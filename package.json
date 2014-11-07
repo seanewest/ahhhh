@@ -1,7 +1,7 @@
 {
-  "name": "yell",
+  "name": "ahhhh",
   "version": "0.0.0",
-  "description": "Like the unix 'yes' command but for yelling. It will just continue to print out \"AHHHH\" indefinetely.",
+  "description": "Like the unix 'yes' command but for yelling. It will just continue to print out \"AHHHHH!!\" indefinetely.",
   "bin": "cmd.js",
   "repository": {
     "type": "git",
@@ -10,12 +10,12 @@
   "keywords": [
     "unix",
     "yes",
-    "yell"
+    "ahhhh"
   ],
   "author": "Sean West",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/seanewest/yell/issues"
+    "url": "https://github.com/seanewest/ahhhh/issues"
   },
-  "homepage": "https://github.com/seanewest/yell"
+  "homepage": "https://github.com/seanewest/ahhhh"
 }
